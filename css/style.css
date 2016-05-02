@@ -151,7 +151,9 @@ header .profile-content .social a .fa {
   font-size: 20px;
   padding-top: 8px;
 }
-
+header .profile-image {
+  border-radius: 50%;
+}
 
 
 
